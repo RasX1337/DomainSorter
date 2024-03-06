@@ -1,6 +1,6 @@
 # Email-sorter-by-domain
 
-# Organized Email Sorter According to domains:
+## Organized Email Sorter According to domains:
 
 First rename your email text file to sip.txt.
 
